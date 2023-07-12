@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 Certificate:
-[Certificate name]https://github.com/abdulrafayansari/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/
+[Certificate name](https://github.com/abdulrafayansari/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Certificate%20of%20internship.pdf)
 
 
 # Task - 1
