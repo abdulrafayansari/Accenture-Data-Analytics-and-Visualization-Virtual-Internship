@@ -12,4 +12,4 @@ She has reviewed the brief provided by Social Buzz and has assembled a diverse t
 
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 
-About Client : Social Buzz
+About Client : [Social Buzz](https://github.com/abdulrafayansari/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief%20(1).pdf)
